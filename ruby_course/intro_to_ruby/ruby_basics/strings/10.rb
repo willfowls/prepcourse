@@ -1,7 +1,0 @@
-# using the following code, print true if colors include the color 'yellow' and print 'false' if it doesn't
-# then print true if colors includes the color 'purple' and print false if it doesn't
-
-colors = 'blue pink yellow orange'
-
-puts colors.include?('yellow')
-puts colors.include?('purple')
